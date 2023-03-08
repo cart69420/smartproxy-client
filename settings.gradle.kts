@@ -1,0 +1,2 @@
+
+rootProject.name = "smartproxy-client"

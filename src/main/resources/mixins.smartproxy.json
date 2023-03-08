@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "dev.cart.mixin",
+  "refmap": "mixins.smartproxy.refmap.json",
+  "client": [
+    "MixinMinecraft",
+    "gui.MixinGuiConnecting",
+    "gui.MixinGuiMultiplayer",
+    "network.MixinNetworkManager"
+  ]
+}

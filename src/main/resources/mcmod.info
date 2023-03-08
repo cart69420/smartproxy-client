@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "smartproxy-client",
+    "name": "SmartProxy",
+    "description": "Mod for communicating with SmartProxy.",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "url": "https://github.com/cart69420/smartproxy",
+    "authorList": ["cart69420"],
+    "credits": "bush (EventBus)",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
